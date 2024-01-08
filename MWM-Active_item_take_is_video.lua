@@ -4,7 +4,6 @@
      
      Lua 5.2 compatible
      
-     
      Utility function to determine if the active take of a Reaper Media Item contains video.
      ----------------------------------------------------
      Checks if the source is a video format of an active take of a Reaper Media Item.
